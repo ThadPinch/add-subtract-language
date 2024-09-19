@@ -1,5 +1,7 @@
 # Addition-Subtraction Compiler
 
+This is my first brush with building a compiler in C.
+
 ![Compiler Logo](screenshots/screenshot1.png)
 
 ## Table of Contents
@@ -9,9 +11,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Examples](#examples)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
